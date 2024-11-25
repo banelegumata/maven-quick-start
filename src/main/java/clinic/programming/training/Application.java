@@ -2,7 +2,7 @@ package clinic.programming.training;
 import java.util.ArrayList;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
-
+//just new comment to help push file again.
 public class Application {
 	public int countWords(String words){
 		String[] separateWords = StringUtils.split(words, ' ');
